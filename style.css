@@ -4,7 +4,7 @@ td   /* Each call or square */
     height: 100px; /* height 100 px */
     width: 100px;  /* width 100 px */
     text-align: center;   /* When displaying text, it displays in center*/
-    vertical-align: middle;   /* not sure what this does  */
+    vertical-align: middle;   /* dislays text also in the middle  */
     font-family: "Comic Sans MS", cursive;   /* X or O displays in this font in cursive version*/
     font-size: 70px;   /* size of font */
     cursor: pointer;   /* makes it look like you can click on a cell*/
